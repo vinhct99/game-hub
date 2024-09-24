@@ -1,1 +1,1 @@
-https://rawg.io/apidocs api data
+https://rawg.io/apidocs api data load
